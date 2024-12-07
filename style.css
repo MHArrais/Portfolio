@@ -169,7 +169,7 @@ textarea {
 }
 
 .btn {
-    background: #7843E9;
+    background: #0f0d72;
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -195,14 +195,14 @@ textarea {
 }
 
 .btn--theme {
-    background: #7843E9;
+    background: #0f0d72;
     color: #fff
 }
 
 .btn--theme-inv {
     color: #111;
     background: #fff;
-    border: 2px solid #7843E9;
+    border: 2px solid #0f0d72;
     box-shadow: none;
     padding: calc(1.5rem - 2px) calc(5rem - 2px)
 }
@@ -381,7 +381,7 @@ textarea {
 .about__content-details-para a {
     text-decoration: underline;
     font-weight: 700;
-    color: #7843E9;
+    color: #0f0d72;
     margin: 0 3px
 }
 
@@ -742,7 +742,7 @@ textarea {
 }
 
 .header__logo-container:hover {
-    color: #7843E9
+    color: #0f0d72
 }
 
 .header__logo-img-cont {
@@ -751,7 +751,7 @@ textarea {
     border-radius: 50px;
     overflow: hidden;
     margin-right: 1.5rem;
-    background: #7843E9
+    background: #0f0d72
 }
 
 @media only screen and (max-width: 56.25em) {
@@ -801,7 +801,7 @@ textarea {
 }
 
 .header__link:hover {
-    color: #7843E9
+    color: #0f0d72
 }
 
 @media only screen and (max-width: 56.25em) {
@@ -871,7 +871,7 @@ textarea {
 }
 
 .header__sm-menu-link a:hover {
-    color: #7843E9
+    color: #0f0d72
 }
 
 .header__sm-menu-link:first-child a {
